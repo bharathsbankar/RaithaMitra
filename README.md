@@ -6,9 +6,9 @@ their crop choices, maximize profitability, and reduce market risks. By bridging
 gap between farmers and agricultural markets, "RAITHA MITRA" aims to level the playing 
 field, empowering farmers to negotiate better prices and improve their overall economic well being.
 # Tehnologies
-### html
-### css
-### php
-### javascript
-### xaamp
-### mysql
+### 1.html
+### 2.css
+### 3.php
+### 4.javascript
+### 5.xaamp
+### 6.mysql
